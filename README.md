@@ -68,7 +68,7 @@ A cloud based remote android managment suite, powered by NodeJS
     4. save the file
     5. run `pm2 restart all`
 
-7. in your browser navigate to `http://<SERVER IP>:22533`
+7. in your browser navigate to `http://127.0.0.1:22533`
     
 It's recommended to run L3MON behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
