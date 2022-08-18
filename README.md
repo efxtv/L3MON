@@ -24,6 +24,7 @@ A cloud based remote android managment suite, powered by NodeJS
 - java8 in termux chroot
 - [How to install L3MON in termux With Java8 Hindi](https://youtu.be/m5RCMeDsuik)
 - [How to insall L3MON in Termux no JAVA8](https://youtu.be/kM3ZzOXLEDw) 
+- [EMSF Tool](https://youtu.be/XKKQOxI-P9g)
 
 
 ## Features
