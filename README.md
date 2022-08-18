@@ -19,6 +19,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ## Video Tutorial
 - [How to install ubuntu in termux](https://youtube.com/playlist?list=PLI4Vi9cCSEQkuNBwBcSPxDEEkMZ25X8n9)
 - How to install java 8 in termux
+- [How to install Termux no error 2022](https://youtu.be/bDn4pMM_gmM)
 - how to fix unable to generae maindb.json 
 - [Reset l3mon password](https://youtu.be/EA1FF44TL5o)
 - java8 in termux chroot
