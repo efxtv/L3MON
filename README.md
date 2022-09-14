@@ -2,7 +2,7 @@
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS 
 </p>
-<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. It is our moral obligation to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
+<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. It is our moral obligation to send all types of rights and donations directly to the original creator. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
 
 <p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
 
