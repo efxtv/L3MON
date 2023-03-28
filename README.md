@@ -85,7 +85,8 @@ A cloud based remote android managment suite, powered by NodeJS
 6. Set a Username & Password
     1. Stop L3MON `pm2 stop index`
     2. Open `maindb.json` in a text editor
-    3. under `admin` 
+    3. MD5 Hash `echo -n efxtv | openssl md5|awk '{print $2}'`
+    4. under `admin` 
         - set the `username` as plain text
         - set the `password` as a LOWERCASE MD5 hash
     4. save the file
