@@ -82,6 +82,35 @@ A cloud based remote android managment suite, powered by NodeJS
     5. run `pm2 restart all`
 
 7. in your browser navigate to `http://127.0.0.1:22533`
+# Git Clone L3mon
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/1git-clone.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Prerequisites L3MON
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/2prerequisites.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Install L3MON
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/3install-L3MON.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Reset L3MON Password
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/4asetup-password-md5.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Reset Java8 L3MON 
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/4fix-java8-in-termux.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Missing maindb.json file L3MON
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/5amissing-maindb.json.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# BUild L3MON APK
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/5build.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# BUild L3MON APK
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/6build-install.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Allow Permission L3mon
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/7allow-permissions.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
+
+# Live Session L3MON
+<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/8live-client.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">	
     
 It's recommended to run L3MON behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
