@@ -75,7 +75,7 @@ A cloud based remote android managment suite, powered by NodeJS
     - `npm audit fix`
     - `npm audit`
 
-4. Download and Extract the latest release from [HERE](https://github.com/D3VL/L3MON/releases/)
+4. Download and Extract the latest release from [HERE](https://t.me/efxtv)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
