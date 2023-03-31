@@ -17,17 +17,6 @@ A cloud based remote android managment suite, powered by NodeJS
 - Androrat
 - ShivaTheCreator
 
-## Video Tutorial
-- [How to install ubuntu in termux](https://youtube.com/playlist?list=PLI4Vi9cCSEQkuNBwBcSPxDEEkMZ25X8n9)
-- How to install java 8 in termux
-- [How to install Termux no error 2022](https://youtu.be/bDn4pMM_gmM)
-- how to fix unable to generae maindb.json 
-- [Reset l3mon password](https://youtu.be/EA1FF44TL5o)
-- java8 in termux chroot
-- [How to install L3MON in termux With Java8 Hindi](https://youtu.be/m5RCMeDsuik)
-- [How to insall L3MON in Termux no JAVA8](https://youtu.be/kM3ZzOXLEDw) 
-- [EMSF Tool](https://youtu.be/XKKQOxI-P9g)
-
 
 ## Features
 - GPS Logging
