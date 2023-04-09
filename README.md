@@ -82,8 +82,6 @@ A cloud based remote android managment suite, powered by NodeJS
     5. run `pm2 restart all`
 
 7. in your browser navigate to `http://127.0.0.1:22533`
-# Git Clone L3mon
-<img src="https://github.com/efxtv/L3MON/blob/main/error-and-install/1git-clone.gif?raw=true" alt="Flowers in Chania" width="80%" height="80%">
 
 ## Notes
 When opening an issue, you **MUST** use the provided templates. Issues without this will not recieve support quickly and will be put to the bottom of the figurative pile.
