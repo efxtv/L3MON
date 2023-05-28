@@ -9,16 +9,30 @@ A cloud based remote android managment suite, powered by NodeJS
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
-## Similar tool with modification supported in termux with <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+## Similar tool with modification supported by EFX Tv along side L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
 - L3MON 
 - HaxRAT
 - LizRAT
 - Ahmyth
 - Androrat
+- Metasploit
+- FatRat
+- Cypher
+- craxs
+- Spy note
+- Spy Max
+- DarkComet
+- BetterAndroRAT
+- Airavat RAT
+- UnknownRAT
+- NetWire
+- Dendroid
+- LizRAT
 - ShivaTheCreator
+- [Read more](https://github.com/efxtv/RATS/blob/main/README.md) 
 
 
-## Features
+## L3MON Features
 - GPS Logging
 - Microphone Recording
 - View Contacts
