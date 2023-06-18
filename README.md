@@ -1,15 +1,15 @@
 # Deleted by owner it may not work, Get Updates on <a href="https://t.me/efxtv">TELEGRAM (only for education)</a>.
 <p align="center">
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based remote android managment suite, powered by NodeJS 
+A cloud-based remote Android management suite, powered by NodeJS 
 </p>
-<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. It is our moral obligation to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
+<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. Our moral obligation is to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
 
 <p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
-## Similar tool with modification supported by EFX Tv along side L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+## Similar tool with modification supported by EFX Tv alongside L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
 - L3MON 
 - HaxRAT
 - LizRAT
@@ -55,7 +55,7 @@ A cloud based remote android managment suite, powered by NodeJS
  - A Server
 
 ## Installation 
-1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that dont use this will be closed WITHOUT a response)
+1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that don't use this will be closed WITHOUT a response)
     - Debian, Ubuntu, Etc
      - Ubuntu chroot
         - `sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre`
@@ -78,7 +78,7 @@ A cloud based remote android managment suite, powered by NodeJS
     - `npm audit fix`
     - `npm audit`
 
-4. Download and Extract the latest release from [HERE](https://t.me/efxtv)
+4. Download and Extract the latest release from [HERE](https://t.me/etxtv)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
@@ -98,7 +98,7 @@ A cloud based remote android managment suite, powered by NodeJS
 7. in your browser navigate to `http://127.0.0.1:22533`
 
 ## Notes
-When opening an issue, you **MUST** use the provided templates. Issues without this will not recieve support quickly and will be put to the bottom of the figurative pile.
+When opening an issue, you **MUST** use the provided templates. Issues without this will not receive support quickly and will be put to the bottom of the figurative pile.
 
 Please have a look through the current issues, open and closed to see if your issue has been addressed before. If it's java related, it's most definitely been addressed - In short Use Java 1.8.0
 
@@ -112,8 +112,8 @@ Please have a look through the current issues, open and closed to see if your is
 <a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> Event Log</a> | <a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> Login</a> |<a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> WiFi Manager</a>|
 
 ## Thanks
-L3MON Builds off and utilizes serveral opensource softwares, Without these, L3MON Wouldn't be what it is!
- - Inspiration for the project and the basic building blocks for the Android App are based off [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
+L3MON Builds off and utilizes several opensource software, Without these, L3MON Wouldn't be what it is!
+ - Inspiration for the project and the basic building blocks for the Android App are based on [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
  - [express](https://github.com/expressjs/express)
  - [node-geoip](https://github.com/bluesmoon/node-geoip)
  - [lowdb](https://github.com/typicode/lowdb)
