@@ -67,6 +67,12 @@ client_io.on('connection', (socket) => {
 // get the admin interface online
 app.listen(CONST.web_port);
 
+/* 
+*   
+*   
+*   t.me/efxtv
+*/
+
 app.set('view engine', 'ejs');
 app.set('views', './assets/views');
 app.use(express.static(__dirname + '/assets/webpublic'));
