@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "",
+    "loginToken": "",
+    "logs": [],
+    "ipLog": []
+  },
+  "clients": []
+}
