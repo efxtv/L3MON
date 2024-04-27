@@ -1,7 +1,7 @@
 /* 
 *   DroiDrop
 *   An Android Monitoring Tools
-*   By VoidTyphoon.co.uk
+*   By t.me/efxtv
 */
 
 
