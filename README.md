@@ -1,11 +1,11 @@
-# Deleted by owner it may not work, Get Updates on <a href="https://t.me/efxtv">TELEGRAM (only for education)</a>.
+# Deleted by the owner it may not work, Get Updates on <a href="https://t.me/efxtv">TELEGRAM (only for education)</a>.
 <p align="center">
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
-<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the Lemon tool in any way. Our moral obligation is to send all types of rights and donations directly to the original crater. We sincerely thank you for allowing us to upload this tool to our GitHub. We have enabled Lemon to support termux with a few minor changes.</p>
+<p> We as <a href="https://www.youtube.com/c/EFXTVE">EFX Tv</a> do not pressurize the L3mon tool in any way. We sincerely have enabled Lemon to support termux with a few minor changes.</p>
 
-<p>Now users no longer need to sign the lemon payload using Apk Editor. If you are a Termux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
+<p>Now users no longer need to sign the L3mon payload using Apk Editor. If you are a Termux/Kali Linux user, you will be able to easily build the payload of Lemon with the help of this repository, as well as use it in Kali Linux and Ubuntu without any errors. If you are a Kali or Ubuntu user, you need to have Java8 Installed on your machine or follow the rootless installation.</p>
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
@@ -18,7 +18,7 @@ A cloud-based remote Android management suite, powered by NodeJS
 - Metasploit
 - FatRat
 - Cypher
-- craxs
+- Craxs
 - Spy note
 - Spy Max
 - DarkComet
@@ -70,7 +70,7 @@ A cloud-based remote Android management suite, powered by NodeJS
     - Windows 
         - click [HERE](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) for downloads
 
-2. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
+2. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't be using this)
 
 3. install PM2 
     - `npm install pm2 -g`
@@ -100,7 +100,7 @@ A cloud-based remote Android management suite, powered by NodeJS
 ## Notes
 When opening an issue, you **MUST** use the provided templates. Issues without this will not receive support quickly and will be put to the bottom of the figurative pile.
 
-Please have a look through the current issues, open and closed to see if your issue has been addressed before. If it's java related, it's most definitely been addressed - In short Use Java 1.8.0
+Please look through the current issues, open and closed to see if your issue has been addressed before. If it's java related, it's most definitely been addressed - In short Use Java 1.8.0
 
 ## Screenshots
 | | | |
@@ -112,7 +112,7 @@ Please have a look through the current issues, open and closed to see if your is
 <a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/event_log.png"> Event Log</a> | <a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/login.png"> Login</a> |<a href="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> <img width="1604" src="https://github.com/D3VL/L3MON/raw/master/Screenshots/wifi_manager.png"> WiFi Manager</a>|
 
 ## Thanks
-L3MON Builds off and utilizes several opensource software, Without these, L3MON Wouldn't be what it is!
+L3MON Builds off and utilizes several open-source software, Without these, L3MON Wouldn't be what it is!
  - Inspiration for the project and the basic building blocks for the Android App are based on [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) 
  - [express](https://github.com/expressjs/express)
  - [node-geoip](https://github.com/bluesmoon/node-geoip)
