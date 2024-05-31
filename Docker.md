@@ -1,23 +1,30 @@
-L3MON Docker:
+# L3MON Docker:
 
-```markdown
-# Building and Running a Docker Container
 
-## Navigate to the Directory Containing the Dockerfile
+## Building and Running a Docker Container
 
-```bash
+```
+mkdir l3monDocker
+cd l3monDocker
+whet https://raw.githubusercontent.com/efxtv/L3MON/main/L3mon_Dockerfile
+mv L3mon_Dockerfile Dockerfile
+```
+
+
+## Navigate to the Directory Containing the Dockerfile 
+
+```
 cd /path/to/your/dockerfile
 ```
 
 ## Build the Docker Image
 
-```bash
+```
 docker build -t lemon .
 ```
 
 ## Run the Docker Container
 
-```bash
-docker run -d --name lemon_container lemon
 ```
+docker run -d --name lemon_container lemon
 ```
