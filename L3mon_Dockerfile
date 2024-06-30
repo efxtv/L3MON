@@ -26,14 +26,4 @@ EXPOSE 22533
 
 CMD ["pm2-runtime", "index.js"]
 
-# Install Docker file
-# docker build -t l3mon-image .
-
-# RUN docker
-# docker run -d -p 22533:22533 --name l3mon-container l3mon-image
-
-# Start L3MON ubuntu shell
-# docker exec -it l3mon-container /bin/bash
-
-# Remove the Existing Container
-# docker rm l3mon-container
+# How to start DokerFile? Ask t.me/ErrorFiX_Tv
