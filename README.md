@@ -8,7 +8,7 @@ A cloud-based remote Android management suite, powered by NodeJS
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
 
-## Similar tool with modification supported by EFX Tv alongside L3MON <a href="https://github.com/efxtv/EMSF">EMSF Tool by EFX Tv</a>
+## Similar tools for Android Pentesting 
 - L3MON 
 - HaxRAT
 - LizRAT
@@ -76,6 +76,7 @@ A cloud-based remote Android management suite, powered by NodeJS
     - `npm install`
     - `npm audit fix`
     - `npm audit`
+    - `npm audit fix --force`
 
 4. Download and Extract the latest release from [HERE](https://t.me/etxtv)
 
