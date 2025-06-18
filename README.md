@@ -102,4 +102,5 @@ L3MON is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="//d3vl.com">D3VL</a></p>
+<p align="center"><a href="https://t.me/EFXTV2021">Telegram</a></p>
 <p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/D3VL/L3MON">Credit!</a></p>
