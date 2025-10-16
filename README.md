@@ -1,7 +1,8 @@
-# Deleted by the owner. Project closed <a href="https://t.me/ErrorFiX_Tv"> Get in touch on TELEGRAM for exclusive course to build pentesting tools (only for education)</a>.
+# Deleted by the owner. Project closed <a href="https://t.me/+egpQDeBtGk8wYWU1"> Get in touch on TELEGRAM for exclusive course to build pentesting tools (only for education)</a>.
 <p align="center">
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
+<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 </p>
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
