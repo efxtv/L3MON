@@ -1,8 +1,8 @@
-# Deleted by the owner. Project closed <a href="https://t.me/+egpQDeBtGk8wYWU1"> Get in touch on TELEGRAM for exclusive course to build pentesting tools (only for education)</a>.
+# Project closed <a href="https://t.me/+egpQDeBtGk8wYWU1"> Join for 100% free tools and education </a>.
 <p align="center">
 <img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+
 </p>
 
 <p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
@@ -71,7 +71,7 @@ A cloud-based remote Android management suite, powered by NodeJS
     4. save the file
     5. run `pm2 restart all`
 
-7. in your browser navigate to `http://127.0.0.1:22533`
+7. In your browser navigate to `http://127.0.0.1:22533`
 
 ## Notes
 When opening an issue, you **MUST** use the provided templates. Issues without this will not receive support quickly and will be put to the bottom of the figurative pile.
