@@ -5,7 +5,13 @@
 > **Archived:** October 29, 2025 — Read-only / Educational preservation  
 > **Stack:** Node.js + Express + Socket.IO + Java 8 / apktool
 
-You must have a Linux lab to test this tool safely in an isolated environment. [JOIN US TO KNOW MORE](https://t.me/+egpQDeBtGk8wYWU1)
+Want to learn Linux security and experiment with security tools without putting your personal system at risk?
+
+Imagine having your own secure Linux/Windows lab where you can practice, test tools, explore real-world scenarios, and build hands-on cybersecurity skills in a safe environment.
+
+Ready to take your Linux security learning to the next level? [CONTACT US](https://t.me/errorfix_tv)
+
+Support us [JOIN_VIP](https://t.me/+uCojAC1q46ViZGFl)
 
 Cloud-based remote Android management suite, powered by NodeJS.
 
